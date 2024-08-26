@@ -1,1 +1,0 @@
-Select * from RAW.RAW_CUSTOMERS
