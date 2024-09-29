@@ -20,4 +20,4 @@ renamed as (
 )
 
 select * from renamed
---modofied for bug bash
+--modified for bug bash
