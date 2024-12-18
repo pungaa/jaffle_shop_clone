@@ -73,5 +73,5 @@ customer_order_count as (
     from compute_booleans
 
 )
-//final projection
+//final projection demo
 select * from customer_order_count

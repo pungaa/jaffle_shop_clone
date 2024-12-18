@@ -1,0 +1,1 @@
+select * from "HEVO_WS_DB"."RAW"."RAW_CUSTOMERS"
