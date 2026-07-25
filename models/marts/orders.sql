@@ -39,6 +39,7 @@ order_items_summary as (
 
 ),
 
+-- Phase 3 Git workflow E2E validation
 compute_booleans as (
 
     select
