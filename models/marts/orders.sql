@@ -76,3 +76,4 @@ customer_order_count as (
 )
 //final projection demo
 select * from customer_order_count
+-- Git diff preview: saved change, not committed
