@@ -1,1 +1,1 @@
-select * from "BLAH"."ORDERS"
+select * from "SUPA_SCHEMA"."ORDERS"
