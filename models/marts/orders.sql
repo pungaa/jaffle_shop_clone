@@ -78,3 +78,4 @@ customer_order_count as (
 select * from customer_order_count
 -- Git diff preview: saved change, not committed
 -- something to trogger a save
+--- soem mor efake edits

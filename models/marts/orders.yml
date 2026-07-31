@@ -28,6 +28,8 @@ models:
         description: A boolean indicating if this order included any food items.
       - name: is_drink_order
         description: A boolean indicating if this order included any drink items.
+      - name: LOCATION_ID
+        description: The location where the order was placed.
 
 unit_tests:
   - name: test_order_items_compute_to_bools_correctly
